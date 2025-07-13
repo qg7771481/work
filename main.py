@@ -27,7 +27,7 @@ fake_users_db = {
     "alice@example.com": {
         "username": "alice@example.com",
         "full_name": "Alice Smith",
-        "hashed_password": "$2b$12$8MtuAfBqXZoAOY78KNvJcOYBQZRuQUzV.jaCSrU5PzZ.NYkbK9OGm",  # "password123"
+        "hashed_password": "$2a$12$SwQAt3ElVp.5r9060UPogeT5DAii1IECP4lrCDb/3GdbbKGOIQDxe",  # "password123"
     }
 }
 
